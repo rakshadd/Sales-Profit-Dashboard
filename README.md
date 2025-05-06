@@ -1,2 +1,1 @@
-# Sales-Profit-Dashboard
-A portfolio project analyzing sales and profit trends using SQL, Excel, and Power BI.
+git clone https://github.com/<Sales-Profit-Dashboard>/Sales-Profit-Dashboard.git
