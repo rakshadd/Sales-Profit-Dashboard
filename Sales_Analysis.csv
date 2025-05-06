@@ -1,0 +1,101 @@
+Order ID,Customer Name,Customer Segment,Product Name,Category,Sales Amount,Profit,Order Date,Region,Feedback
+ORD-1,Customer-1,Corporate,Product-48,Electronics,3445,1357,2023-01-01,North,2
+ORD-2,Customer-2,Individual,Product-19,Clothing,3758,-46,2023-01-02,East,5
+ORD-3,Customer-3,SMB,Product-2,Electronics,1914,824,2023-01-03,North,3
+ORD-4,Customer-4,Individual,Product-33,Electronics,4943,578,2023-01-04,North,5
+ORD-5,Customer-5,Corporate,Product-17,Electronics,371,-92,2023-01-05,East,5
+ORD-6,Customer-6,SMB,Product-28,Electronics,1319,716,2023-01-06,North,5
+ORD-7,Customer-7,Individual,Product-43,Home Appliances,1270,-357,2023-01-07,North,1
+ORD-8,Customer-8,Corporate,Product-32,Electronics,1515,-454,2023-01-08,East,2
+ORD-9,Customer-9,Individual,Product-39,Home Appliances,773,941,2023-01-09,North,2
+ORD-10,Customer-10,Individual,Product-14,Clothing,2164,1310,2023-01-10,West,5
+ORD-11,Customer-11,SMB,Product-38,Home Appliances,2554,41,2023-01-11,South,3
+ORD-12,Customer-12,SMB,Product-5,Electronics,456,485,2023-01-12,East,5
+ORD-13,Customer-13,Corporate,Product-9,Clothing,3035,119,2023-01-13,South,2
+ORD-14,Customer-14,Individual,Product-32,Clothing,3612,959,2023-01-14,South,1
+ORD-15,Customer-15,Individual,Product-1,Home Appliances,966,802,2023-01-15,North,4
+ORD-16,Customer-16,Individual,Product-32,Electronics,3291,910,2023-01-16,South,1
+ORD-17,Customer-17,Corporate,Product-39,Clothing,2924,-339,2023-01-17,East,3
+ORD-18,Customer-18,Individual,Product-45,Home Appliances,3470,396,2023-01-18,North,2
+ORD-19,Customer-19,SMB,Product-14,Electronics,4193,1343,2023-01-19,North,3
+ORD-20,Customer-20,Individual,Product-21,Electronics,1650,-149,2023-01-20,North,3
+ORD-21,Customer-21,Individual,Product-7,Home Appliances,2899,1212,2023-01-21,South,1
+ORD-22,Customer-22,SMB,Product-46,Electronics,4059,1427,2023-01-22,North,3
+ORD-23,Customer-23,SMB,Product-23,Home Appliances,1382,1138,2023-01-23,West,2
+ORD-24,Customer-24,SMB,Product-5,Home Appliances,3649,296,2023-01-24,East,1
+ORD-25,Customer-25,Individual,Product-4,Clothing,4655,637,2023-01-25,West,1
+ORD-26,Customer-26,SMB,Product-20,Home Appliances,3812,1011,2023-01-26,South,1
+ORD-27,Customer-27,Corporate,Product-24,Clothing,2769,650,2023-01-27,South,4
+ORD-28,Customer-28,SMB,Product-42,Home Appliances,2173,-273,2023-01-28,East,5
+ORD-29,Customer-29,Individual,Product-48,Clothing,1677,-183,2023-01-29,East,3
+ORD-30,Customer-30,Individual,Product-40,Clothing,3148,877,2023-01-30,West,2
+ORD-31,Customer-31,SMB,Product-46,Electronics,489,975,2023-01-31,West,2
+ORD-32,Customer-32,Corporate,Product-46,Home Appliances,129,-220,2023-02-01,North,5
+ORD-33,Customer-33,Corporate,Product-24,Home Appliances,3308,-233,2023-02-02,North,5
+ORD-34,Customer-34,Individual,Product-48,Electronics,4699,205,2023-02-03,East,5
+ORD-35,Customer-35,Individual,Product-29,Clothing,2701,1399,2023-02-04,South,1
+ORD-36,Customer-36,Corporate,Product-7,Home Appliances,2507,321,2023-02-05,East,1
+ORD-37,Customer-37,Individual,Product-31,Home Appliances,4115,914,2023-02-06,North,4
+ORD-38,Customer-38,Corporate,Product-31,Home Appliances,4183,-271,2023-02-07,East,3
+ORD-39,Customer-39,Individual,Product-16,Electronics,409,-367,2023-02-08,East,2
+ORD-40,Customer-40,Corporate,Product-10,Electronics,1232,382,2023-02-09,South,5
+ORD-41,Customer-41,SMB,Product-18,Clothing,3621,509,2023-02-10,North,3
+ORD-42,Customer-42,SMB,Product-17,Home Appliances,725,1466,2023-02-11,South,4
+ORD-43,Customer-43,Individual,Product-21,Clothing,4525,608,2023-02-12,East,1
+ORD-44,Customer-44,SMB,Product-20,Electronics,4900,1126,2023-02-13,South,1
+ORD-45,Customer-45,Individual,Product-2,Electronics,590,1102,2023-02-14,West,3
+ORD-46,Customer-46,Individual,Product-48,Clothing,149,1183,2023-02-15,East,2
+ORD-47,Customer-47,Corporate,Product-41,Clothing,2601,-295,2023-02-16,South,3
+ORD-48,Customer-48,SMB,Product-4,Electronics,3477,-246,2023-02-17,North,3
+ORD-49,Customer-49,Corporate,Product-25,Home Appliances,216,362,2023-02-18,North,3
+ORD-50,Customer-50,Individual,Product-20,Home Appliances,3713,1033,2023-02-19,East,3
+ORD-51,Customer-51,Individual,Product-14,Electronics,4950,932,2023-02-20,South,5
+ORD-52,Customer-52,SMB,Product-10,Electronics,2389,888,2023-02-21,North,1
+ORD-53,Customer-53,Corporate,Product-19,Electronics,1550,-128,2023-02-22,East,2
+ORD-54,Customer-54,Individual,Product-30,Home Appliances,695,573,2023-02-23,South,4
+ORD-55,Customer-55,Corporate,Product-19,Electronics,2267,220,2023-02-24,West,3
+ORD-56,Customer-56,Individual,Product-46,Electronics,4493,-293,2023-02-25,North,2
+ORD-57,Customer-57,Individual,Product-43,Clothing,2502,212,2023-02-26,West,4
+ORD-58,Customer-58,Individual,Product-17,Electronics,3277,401,2023-02-27,West,1
+ORD-59,Customer-59,SMB,Product-12,Clothing,2240,256,2023-02-28,South,4
+ORD-60,Customer-60,SMB,Product-13,Electronics,4711,1351,2023-03-01,East,1
+ORD-61,Customer-61,Corporate,Product-41,Home Appliances,2803,120,2023-03-02,West,4
+ORD-62,Customer-62,SMB,Product-39,Home Appliances,372,214,2023-03-03,South,1
+ORD-63,Customer-63,Corporate,Product-42,Home Appliances,1406,896,2023-03-04,West,5
+ORD-64,Customer-64,Individual,Product-37,Home Appliances,2799,929,2023-03-05,West,2
+ORD-65,Customer-65,Individual,Product-13,Clothing,694,1398,2023-03-06,South,1
+ORD-66,Customer-66,Individual,Product-25,Home Appliances,298,1337,2023-03-07,West,1
+ORD-67,Customer-67,Corporate,Product-5,Clothing,1454,-491,2023-03-08,West,2
+ORD-68,Customer-68,SMB,Product-45,Clothing,782,215,2023-03-09,West,5
+ORD-69,Customer-69,Individual,Product-48,Clothing,2190,825,2023-03-10,South,1
+ORD-70,Customer-70,SMB,Product-44,Home Appliances,4155,1023,2023-03-11,East,3
+ORD-71,Customer-71,Corporate,Product-34,Clothing,2802,607,2023-03-12,North,4
+ORD-72,Customer-72,Corporate,Product-48,Clothing,4696,-242,2023-03-13,North,1
+ORD-73,Customer-73,Corporate,Product-9,Home Appliances,335,1285,2023-03-14,North,2
+ORD-74,Customer-74,SMB,Product-24,Home Appliances,3902,1089,2023-03-15,South,5
+ORD-75,Customer-75,Individual,Product-25,Home Appliances,2410,176,2023-03-16,South,5
+ORD-76,Customer-76,SMB,Product-44,Clothing,3416,177,2023-03-17,South,5
+ORD-77,Customer-77,SMB,Product-29,Clothing,1113,79,2023-03-18,North,5
+ORD-78,Customer-78,Individual,Product-31,Electronics,4278,661,2023-03-19,East,4
+ORD-79,Customer-79,SMB,Product-47,Clothing,502,1402,2023-03-20,West,1
+ORD-80,Customer-80,Corporate,Product-7,Clothing,951,1433,2023-03-21,North,1
+ORD-81,Customer-81,Individual,Product-40,Clothing,1383,1011,2023-03-22,East,3
+ORD-82,Customer-82,Individual,Product-10,Clothing,970,467,2023-03-23,South,2
+ORD-83,Customer-83,Individual,Product-10,Clothing,607,827,2023-03-24,West,5
+ORD-84,Customer-84,Individual,Product-37,Electronics,3256,1453,2023-03-25,North,4
+ORD-85,Customer-85,SMB,Product-11,Home Appliances,4885,-39,2023-03-26,North,3
+ORD-86,Customer-86,SMB,Product-14,Clothing,1145,-389,2023-03-27,West,4
+ORD-87,Customer-87,Corporate,Product-43,Electronics,2616,141,2023-03-28,West,3
+ORD-88,Customer-88,SMB,Product-29,Clothing,1734,520,2023-03-29,North,3
+ORD-89,Customer-89,Individual,Product-49,Clothing,4596,898,2023-03-30,West,3
+ORD-90,Customer-90,Corporate,Product-21,Electronics,1055,825,2023-03-31,East,1
+ORD-91,Customer-91,SMB,Product-3,Home Appliances,1326,1488,2023-04-01,West,2
+ORD-92,Customer-92,Individual,Product-48,Clothing,696,282,2023-04-02,East,2
+ORD-93,Customer-93,Corporate,Product-46,Electronics,4166,-128,2023-04-03,South,1
+ORD-94,Customer-94,SMB,Product-49,Home Appliances,2019,496,2023-04-04,East,1
+ORD-95,Customer-95,Corporate,Product-25,Home Appliances,2520,-57,2023-04-05,East,5
+ORD-96,Customer-96,Corporate,Product-46,Electronics,1733,1062,2023-04-06,West,5
+ORD-97,Customer-97,Individual,Product-13,Clothing,4596,1396,2023-04-07,South,1
+ORD-98,Customer-98,Individual,Product-16,Clothing,1129,496,2023-04-08,West,4
+ORD-99,Customer-99,Corporate,Product-15,Clothing,3862,1475,2023-04-09,North,3
+ORD-100,Customer-100,Individual,Product-49,Electronics,3720,1267,2023-04-10,West,4
